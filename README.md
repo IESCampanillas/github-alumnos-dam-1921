@@ -17,6 +17,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Pavon Lopez, Juan](https://github.com/JuanPavon)
 * [Robles Gibaja, Alejandro](https://github.com/alejandroroblesgibaja)
 * [Torres Barba, Pedro](https://github.com/torrespedrob/Ejercicios-Java-19-20)
+* [Rosales Girón, José Antonio](https://github.com/joseantoniorosales)
 * [Torres de Oses, Iván](https://github.com/IvanTorres21)
 * [Toscano Díaz, Sergio](https://github.com/sergiotoscanodiaz)
 
