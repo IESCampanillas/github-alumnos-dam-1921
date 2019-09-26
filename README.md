@@ -8,12 +8,13 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Cisneros Santana, Pedro](https://github.com/PedroCisnerosSantana)
 * [González Mora, Miguel](https://github.com/Miguelgm1693)
 * [Gutiérrez Pardo, Miguel](https://github.com/BeTheVal)
+* [López Ramos, Rodrigo](https://github.com/rodrigolopezramoss)
+* [López Sanchez, Javier](https://github.com/javier-l0pez)
+* [Martínez Alaminos, Diego](https://github.com/diegomartinezalaminos)
 * [Molina Blanes, Pablo Luis](https://github.com/pabloluismolinablanes)
 * [Pacheco Torrecilla, Ismael](https://github.com/ismaelpacheco13)
 * [Robles Gibaja, Alejandro](https://github.com/alejandroroblesgibaja)
 * [Torres Barba, Pedro](https://github.com/torrespedrob/Ejercicios-Java-19-20)
-* [López, Javier](https://github.com/javier-l0pez)
-* [López Ramos, Rodrigo](https://github.com/rodrigolopezramoss)
 * [Toscano Díaz, Sergio](https://github.com/sergiotoscanodiaz)
 
 
