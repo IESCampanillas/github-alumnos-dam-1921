@@ -12,5 +12,6 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Robles Gibaja, Alejandro](https://github.com/alejandroroblesgibaja)
 * [Torres Barba, Pedro](https://github.com/torrespedrob/Ejercicios-Java-19-20)
 * [López, Javier](https://github.com/javier-l0pez)
+* [López Ramos, Rodrigo](https://github.com/rodrigolopezramoss)
 * [Toscano Díaz, Sergio](https://github.com/sergiotoscanodiaz)
 
