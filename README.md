@@ -5,5 +5,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 
 * [Cano Santana, Miguel](https://github.com/miguelcanosantana)
 * [Cisneros Santana, Pedro](https://github.com/PedroCisnerosSantana)
-* [Carmona Suárez, Francisco](https://github.com/Frankcs96)
-
+* [Molina Blanes, Pablo Luis](https://github.com/pabloluismolinablanes)
