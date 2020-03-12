@@ -9,7 +9,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Chinea Rodriguez, Liset](https://github.com/LisetChineaRodriguez)
 * [Gallardo Luque, Víctor](https://github.com/VictorGallardo)
 * [González Mora, Miguel](https://github.com/Miguelgm1693)
-* [Gutiérrez Pardo, Miguel](https://github.com/BeTheVal)
+* [Gutiérrez Pardo, Miguel Valerio](https://github.com/BeTheVal)
 * [Lago Muñoz, Luca](https://github.com/ROMthesheep)
 * [López Ramos, Rodrigo](https://github.com/rodrigolopezramoss)
 * [López Sanchez, Javier](https://github.com/javier-l0pez)
