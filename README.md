@@ -4,9 +4,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 
 
 * [Cano Santana, Miguel](https://github.com/miguelcanosantana)
-<!--* [Carmona Suárez, Francisco](https://github.com/Frankcs96)-->
 * [Cisneros Santana, Pedro](https://github.com/PedroCisnerosSantana)
-<!--* [Chinea Rodriguez, Liset](https://github.com/LisetChineaRodriguez)-->
 * [Galera García, José Ángel](https://github.com/joseangelgalera)
 * [Gallardo Luque, Víctor](https://github.com/VictorGallardo)
 * [González Mora, Miguel](https://github.com/Miguelgm1693)
@@ -18,7 +16,6 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Molina Blanes, Pablo Luis](https://github.com/pabloluismolinablanes)
 * [Pacheco Torrecilla, Ismael](https://github.com/ismaelpacheco13)
 * [Pavon Lopez, Juan](https://github.com/JuanPavon)
-<!--* [Robles Gibaja, Alejandro](https://github.com/alejandroroblesgibaja)-->
 * [Torres Barba, Pedro](https://github.com/torrespedrob/Ejercicios-Java-19-20)
 * [Robles Bastidas, José](https://github.com/Jose-Robles)
 * [Rosales Girón, José Antonio](https://github.com/joseantoniorosales)
@@ -27,3 +24,6 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Toscano Díaz, Sergio](https://github.com/sergiotoscanodiaz)
 
 
+<!--* [Carmona Suárez, Francisco](https://github.com/Frankcs96)-->
+<!--* [Chinea Rodriguez, Liset](https://github.com/LisetChineaRodriguez)-->
+<!--* [Robles Gibaja, Alejandro](https://github.com/alejandroroblesgibaja)-->
