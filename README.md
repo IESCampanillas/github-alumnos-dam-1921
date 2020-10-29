@@ -16,10 +16,10 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [Molina Blanes, Pablo Luis](https://github.com/pabloluismolinablanes)
 * [Pacheco Torrecilla, Ismael](https://github.com/ismaelpacheco13)
 * [Pavon Lopez, Juan](https://github.com/JuanPavon)
-* [Torres Barba, Pedro](https://github.com/torrespedrob/Ejercicios-Java-19-20)
 * [Robles Bastidas, José](https://github.com/Jose-Robles)
 * [Rosales Girón, José Antonio](https://github.com/joseantoniorosales)
 * [Santos Bernal, Clemente](https://github.com/damcsb)
+* [Torres Barba, Pedro](https://github.com/torrespedrob/Ejercicios-Java-19-20)
 * [Torres de Oses, Iván](https://github.com/IvanTorres21)
 * [Toscano Díaz, Sergio](https://github.com/sergiotoscanodiaz)
 
